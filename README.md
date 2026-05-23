@@ -5,7 +5,7 @@
 ## MY TODO :
 
 ## Exercise 1 - Sentiment Analysis
-
+```python
 # TODO
 classifier = pipeline("sentiment-analysis", model="cardiffnlp/twitter-roberta-base-sentiment")
 
@@ -14,5 +14,6 @@ classifier("Having three long haired, heavy shedding dogs at home, I was pretty 
 
 ### Result :
 [{'label': 'LABEL_2', 'score': 0.6510636806488037}]
+```
 
 
