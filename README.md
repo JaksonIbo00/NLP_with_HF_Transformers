@@ -98,7 +98,7 @@ question_answerer(
 {'score': 0.9145805835723877, 'start': 0, 'end': 7, 'answer': 'Mercury'}
 ```
 
-### Analysis on Example 6 :
+### Analysis on Example 5 :
 Model diatas bekerja ketika pengguna memasukan sebuah informasi, kemudian memberikan sebuah pertanyaan yang berkaitan dengan informasi yang telah disampaikan. Model akan menjawab pertanyaan tersebut sesuai dengan informasi yang telah diberikan. Pada contoh diatas, pertanyaan apakah merkurius merupakan planet terkecil berhasil terjawab berdasarkan informasi yang telah diberikan dengan teknik question answering ini.
 
 ## Exercise 6 - Text Summarization
@@ -139,8 +139,7 @@ print(translator("I have a cold", max_length=40))
 
 ### Analysis on Example 7 :
 Teknik ini digunakan untuk mengubah sebuah bahasa menjadi bahasa lainnya sesuai keinginan pengguna. Teknik ini digunakan dalam teknologi seperti Google Translate untuk mengubah berbagai bahasa yang ada di dunia sesuai keinginan pengguna. Pada contoh diatas, model "t5-small" yang dibuat oleh google digunaka untuk mengubah bahasa inggris menjadi bahasa jerman
-
-
+## 
 ## Analysis on this Project
 Secara keseluruhan, Naturan Language Processing dengan Hugging Face Transformers ini memberikan gambaran bagaimana AI dapat dimanfaatkan untuk mengerjakan pekerjaan-pekerjaan yang berhubungan dengan bahasa manusia. Mulai dari menilai sebuah kalimat, mengklasifikasikan kata, melengkapi kalimat, sampai mengubah kalimat menjadi bahasa-bahasa yang ada di seluruh dunia. Hal ini tentu saja sangat berguna dan mempermudah berbagai tugas manusia, sehingga pekerjaan manusia dapat dikerjakan dengan lebih efektif dan efisien.
 
