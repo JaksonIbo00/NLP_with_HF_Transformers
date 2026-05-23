@@ -1,3 +1,3 @@
 <p align="center">
-  <b> Natural Language Processing with Hugging Face Transformers </b>
+  <h1> Natural Language Processing with Hugging Face Transformers </h1>
 </p>
